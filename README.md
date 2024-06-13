@@ -1013,6 +1013,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Hypertune](https://www.hypertune.com) - Type-safe feature flags, A/B testing, analytics and app configuration, with Git-style version control and synchronous, in-memory, local flag evaluation. Free for up to 5 team members with unlimited feature flags and A/B tests.
   * [Molasses](https://www.molasses.app) - Powerful feature flags and A/B testing. Free up to 3 environments with five feature flags each.
   * [Toggled.dev](https://www.toggled.dev) - Enterprise-ready, scalable multi-regional feature toggles management platform. Free plan up to 10 flags, two environments, unlimited requests. SDK, analytics dashboard, release calendar, Slack notifications, and all other features are included in the endless free plan.
+  * [Statsig](https://www.statsig.com?ref=gh_ffd) - A powerful platform for feature management, A/B testing, Analytics, and more.  The generous free plan includes unlimited seats, flags, experiments, and dynamic configurations up to 1M events/month.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
